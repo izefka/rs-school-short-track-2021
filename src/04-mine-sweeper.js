@@ -7,7 +7,7 @@
  * @param {Array<Array>} matrix
  * @return {Array<Array>}
  *
- *  @example
+ * @example
  * matrix = [
  *  [true, false, false],
  *  [false, true, false],
